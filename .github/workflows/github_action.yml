@@ -1,4 +1,4 @@
-name: Nightly Maven Build & Run
+name: DNS Block&Redirect Configurer cron task
 
 on:
   schedule:
